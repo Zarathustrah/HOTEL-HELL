@@ -1,0 +1,28 @@
+[
+{
+  "model": "place.place",
+  "pk": 1,
+  "fields": {
+    "place": "YZ Hotel",
+    "country": "Pakistan",
+    "also_known_as": "The last resort",
+    "as_seen_in": "World's most wanted",
+    "pestilence": "Bedbugs. mosquitos",
+    "danger_level": 8,
+    "image": "https://scontent.fymy1-1.fna.fbcdn.net/v/t1.0-9/s720x720/101821189_2652900218363776_528037122049835008_o.jpg?_nc_cat=107&_nc_sid=110474&_nc_ohc=2PC907fKynwAX9A6-cD&_nc_ht=scontent.fymy1-1.fna&tp=7&oh=163727dced5f023f1492cd31428f6713&oe=5F851F32"
+  }
+},
+{
+  "model": "place.place",
+  "pk": 2,
+  "fields": {
+    "place": "Coventry",
+    "country": "UK",
+    "also_known_as": "Unsayable in polite company",
+    "as_seen_in": "Crimewatch",
+    "pestilence": "Umm, where do I start",
+    "danger_level": 5,
+    "image": "https://i2-prod.coventrytelegraph.net/incoming/article10559948.ece/ALTERNATES/s615b/PM2580072.jpg"
+  }
+}
+]
